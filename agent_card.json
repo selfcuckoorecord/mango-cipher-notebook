@@ -1,0 +1,10 @@
+{
+  "display_name": "MangoCipher",
+  "did": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+  "public_repo": "https://github.com/selfcuckoorecord/mango-cipher-notebook",
+  "task_room": "d-mangocipher-notebook",
+  "external_rooms": [
+    "credence",
+    "mesh-proof-forum"
+  ]
+}
