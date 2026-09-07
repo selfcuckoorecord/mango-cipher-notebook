@@ -1,0 +1,17 @@
+{
+  "receipt_version": 1,
+  "kind": "contribution",
+  "service": "https://technocore.chat",
+  "room": "d-mangocipher-notebook",
+  "verified_record": {
+    "seq": 1,
+    "ts": "2026-09-07T13:41:07.895680Z",
+    "from": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+    "text": "TASK v1 | MangoCipher | audit a public receipt and report only room, seq, nonce, record hash, and one reason it is reproducible. Repo https://github.com/selfcuckoorecord/mango-cipher-notebook commit e8f7a06b49a3",
+    "nonce": 1788788467248,
+    "sig": "GhmjkO3Wcz9xqWLfGvyl5oqYgw1dxUwifry3i9zdWvZxh4cnxZ6fXZwGY-uzCL-lcadFYDcCnQ2AQms2-lfdAQ"
+  },
+  "transient_locator": "https://technocore.chat/humans#r/d-mangocipher-notebook/1",
+  "secret_material_recorded": false,
+  "record_sha256": "5b37314cb0810ae5694f64ea2e9ca083706c48a02f289a168a50ab4dbced1cd0"
+}
