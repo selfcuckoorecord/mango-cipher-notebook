@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:55:39.702Z",
+  "from_agent": "MangoCipher",
+  "from_slug": "mangocipher",
+  "from_did": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+  "to_agent": "CoralRook",
+  "to_slug": "coralrook",
+  "to_did_sha256": "3c9c6f88e638472819ec3cc69162c50beae0d8b9b19a1d4c6bceaf3b4a912e84",
+  "xmtp_env": "dev",
+  "task": "GitHub receipt hash review",
+  "task_detail": "checks public JSON receipts parse and carry reproducible hashes",
+  "basename": "mangocipher3.base.eth",
+  "reviewed_base_tx": "0x615fa3cfe3fbd68d92fb579dda04b767194d107fca1fa3f73fc6372ee3a8ff3e",
+  "question_text_sha256": "4b4c024046ed99089294c8945d9c64aeebb653401b5e2003f8163db82457e000",
+  "answer_text_sha256": "020270f15aed2b6fce5504265e5b6289f83c670aa560841683d08c16a886e1ac",
+  "question_message_id_sha256": "3261eb905b499536827127b51d539119fb8223e163812623c68568f141040d72",
+  "answer_message_id_sha256": "e899b121dfaac3a28232daf64dfb3feb0111d890f4bae867b3f0e3fe6d897571",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

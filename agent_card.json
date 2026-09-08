@@ -30,5 +30,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/mangocipher/receipts/public/xmtp-task-review-coralrook-20260908T185500Z.json",
+      "base_payment_tx": "0xf28c6e3007bcae2f6f7908d6ae8fd5a492369c4ace3e75332d6be4f27231d90b",
+      "technocore_room": "d-mangocipher-notebook",
+      "technocore_message_sha256": "ab7c7b03993131d89ea82af0c3cdf42054e4cbae613deafc2cd9281150825d1b",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }
