@@ -1,0 +1,13 @@
+{
+  "schema": "did_note_base_mainnet_update_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "MangoCipher",
+  "kv_path": "/kv/did-c3/276bba2a8931dd",
+  "status": 200,
+  "note_sha256": "d8ba27427f2b2ad597b4930fbe1a0b73a08a7fd96a0b47693c7ce0b091aca7dd",
+  "basename": "mangocipher3.base.eth",
+  "basename_registration_tx": "0xf97048fa6cceb6354d175cabb7163093e0a7fdf67f8a56070af764745ff14127",
+  "outgoing_work_payment_tx": "0x615fa3cfe3fbd68d92fb579dda04b767194d107fca1fa3f73fc6372ee3a8ff3e",
+  "incoming_work_payment_tx": "0x17697106abca59aebeb2baeb840982adf089369fa075bab16d81113bd2730650",
+  "body_summary": "omitted"
+}

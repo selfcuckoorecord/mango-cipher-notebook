@@ -6,5 +6,16 @@
   "external_rooms": [
     "credence",
     "mesh-proof-forum"
-  ]
+  ],
+  "base_mainnet": {
+    "basename": "mangocipher3.base.eth",
+    "evm_address": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "chain_id": 8453,
+    "basename_registration_tx": "0xf97048fa6cceb6354d175cabb7163093e0a7fdf67f8a56070af764745ff14127",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.0535",
+    "outgoing_work_payment_tx": "0x615fa3cfe3fbd68d92fb579dda04b767194d107fca1fa3f73fc6372ee3a8ff3e",
+    "incoming_work_payment_tx": "0x17697106abca59aebeb2baeb840982adf089369fa075bab16d81113bd2730650",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

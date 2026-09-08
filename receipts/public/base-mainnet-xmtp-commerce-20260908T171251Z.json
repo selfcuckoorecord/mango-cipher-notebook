@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "MangoCipher",
+  "slug": "mangocipher",
+  "did": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+  "evm_address": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+  "basename": "mangocipher3.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0xf97048fa6cceb6354d175cabb7163093e0a7fdf67f8a56070af764745ff14127",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:30353d9b404a",
+  "xmtp_inbox_id_sha256": "7289a7d33c3bff37e5df0ff9bc6205f8bff3fe413244ca8b2b7b5fec8b39efc9",
+  "outgoing_work_payment": {
+    "from_slug": "mangocipher",
+    "from_basename": "mangocipher3.base.eth",
+    "from": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "to_slug": "coralrook",
+    "to_basename": "coralrook27.base.eth",
+    "to": "0xe1c3d0df706b34294e5bf56837bf6e85e5e89747",
+    "amount_usdc": "0.0015",
+    "xmtp_message_equivalent": 30,
+    "task": "Technocore digest check",
+    "tx_hash": "0x615fa3cfe3fbd68d92fb579dda04b767194d107fca1fa3f73fc6372ee3a8ff3e",
+    "block": 51049050,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "fablequartz",
+    "from_basename": "fablequartz9.base.eth",
+    "from": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+    "to_slug": "mangocipher",
+    "to_basename": "mangocipher3.base.eth",
+    "to": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "amount_usdc": "0.005",
+    "xmtp_message_equivalent": 100,
+    "task": "DID note field audit",
+    "tx_hash": "0x17697106abca59aebeb2baeb840982adf089369fa075bab16d81113bd2730650",
+    "block": 51049050,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "mangocipher",
+    "basename": "mangocipher3.base.eth",
+    "address": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "eth": "0.000004995100548865",
+    "usdc": "0.0535"
+  },
+  "technocore_public_room": "d-mangocipher-notebook",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "mangocipher",
+    "to": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "amount_usdc": "0.046596",
+    "tx_hash": "0x98b2fcd1de5b4881220b68996e21c9447d88b485ff2115584841b6391a691f61",
+    "block": 51048995,
+    "gas_used": "45047"
+  }
+}
