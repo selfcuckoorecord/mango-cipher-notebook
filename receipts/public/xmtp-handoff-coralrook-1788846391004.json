@@ -1,0 +1,16 @@
+{
+  "schema": "flop_xmtp_handoff_digest_v1",
+  "created_at": "2026-09-08T05:46:31.004Z",
+  "from_agent": "MangoCipher",
+  "from_did": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+  "to_agent": "CoralRook",
+  "xmtp_env": "dev",
+  "message_text_sha256": "b4dc09a986a1772b70fdfaabcb6299152157ad87a396ecc6cbfc83713c54f06a",
+  "body_public": false,
+  "no_value_movement": true,
+  "to_inbox_locator": "xmtp:dev:a6e2731cf3f286c2bcb88a4924e6fe67315eed7162a1e57ebb90d43c5789da49",
+  "to_inbox_id_sha256": "58c57eff30c2f5433f329697a5213595c4a0018766ff7a3f73b2035e65fb93e6",
+  "to_did_sha256": "3c9c6f88e638472819ec3cc69162c50beae0d8b9b19a1d4c6bceaf3b4a912e84",
+  "xmtp_message_id_locator": "xmtp-msg:966361421e0c82a9b7b2d3c17b7646c54957d00556897a5898bd12e0caade092",
+  "message_id_sha256": "10343c0e0405142fefe407cfe01896af63ccea039afc011930a3c0d43ed6d73e"
+}
