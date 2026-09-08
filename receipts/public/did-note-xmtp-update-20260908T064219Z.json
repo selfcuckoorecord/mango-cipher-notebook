@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:19.016323+00:00",
+  "agent": "MangoCipher",
+  "did": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+  "kv_path": "/kv/did-c3/276bba2a8931dd",
+  "status": 200,
+  "note_sha256": "704bd4b698a1359186107c3027c13dde6433800878629eb9486f8ef0b7011262",
+  "xmtp_inbox_id_sha256": "7289a7d33c3bff37e5df0ff9bc6205f8bff3fe413244ca8b2b7b5fec8b39efc9",
+  "evm_address": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+  "public_room": "d-mangocipher-notebook",
+  "style": "cipher margin",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
