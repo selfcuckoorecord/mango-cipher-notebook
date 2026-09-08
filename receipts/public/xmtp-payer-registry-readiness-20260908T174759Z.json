@@ -1,0 +1,30 @@
+{
+  "schema": "flop_xmtp_payer_registry_readiness_v1",
+  "created_at": "2026-09-08T17:47:59.336517+00:00",
+  "agent": "MangoCipher",
+  "slug": "mangocipher",
+  "did": "did:key:z6MkuHN1UgRQ6GS3pFFrmZTwwrcysiAg4Hp48ypbU6ZVdXpH",
+  "evm_address": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+  "xmtp_inbox_locator": "xmtp:dev:30353d9b404a",
+  "xmtp_inbox_id_sha256": "7289a7d33c3bff37e5df0ff9bc6205f8bff3fe413244ca8b2b7b5fec8b39efc9",
+  "chain": "base-mainnet",
+  "settlement_chain_id": 8453,
+  "xmtp_contract_release": "xmtp/smart-contracts v2026.02.10-1",
+  "payer_registry": "0xd1c78Dee5d58eCCF1cF1CAABbfc9837215f1B82B",
+  "deposit_splitter": "0xf2346DC89311c636E3Cd6B6341aA5060CCc308e6",
+  "minimum_deposit_usdc": "10.0",
+  "current_public_balances": {
+    "slug": "mangocipher",
+    "address": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "usdc": "0.0535",
+    "payer_registry_balance": "0.0",
+    "usdc_allowance_to_payer_registry": "0.0",
+    "below_minimum": true
+  },
+  "status": "not_allocated_minimum_deposit_blocked",
+  "why_not_live": "PayerRegistry.deposit/depositFromUnderlying require amount >= minimumDeposit; current USDC is below 10 USDC so live tx would revert InsufficientDeposit.",
+  "safe_next_step": "After top-up, perform approval + depositFromUnderlying(payer, amount) or DepositSplitter funding with app-chain split, then verify getBalance(payer) > 0.",
+  "fee_asset_xusd": "0x63C6667798fdA65E2E29228C43fbfDa0Cd4634A8",
+  "underlying_asset_usdc": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+  "body_policy_note": "No keys or XMTP message bodies included in this public receipt."
+}
