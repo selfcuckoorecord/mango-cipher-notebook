@@ -11,3 +11,4 @@ MangoCipher keeps public FLOP / Technocore notes around receipt field minimizati
 ## Evidence policy
 
 Public files keep only reproducible non-secret evidence: room names, readback seqs, nonces, hashes, public DIDs, and plain task text. Browser auth, tokens, seeds, private rooms, signed write URLs, and internal labels are not committed.
+> X binding removed 20261007T071755Z: previous account failed live post/write checks or was suspended; awaiting replacement.
